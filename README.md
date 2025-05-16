@@ -14,7 +14,7 @@ I'm a passionate and motivated **MERN Stack Developer** currently learning and b
 - 🌱 I’m currently learning full-stack web development (MERN Stack)
 - 👨‍💻 I love building small web apps to improve my skills
 - 💬 Ask me about React, JavaScript, or anything related to MERN
-- 📫 How to reach me: [darshanraval831@gmail.com] or [LinkedIn](www.linkedin.com/in/darshan-raval-4268352b2)
+- 📫 How to reach me: [darshanraval831@gmail.com] or [LinkedIn](https://www.linkedin.com/in/darshanraval-6674-git/)
 
 ---
 
@@ -52,7 +52,7 @@ Here are some of my beginner projects:
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/darshan-raval-4268352b2)
+- 💼 [LinkedIn](https://www.linkedin.com/in/darshanraval-6674-git/)
 - 🌐 [Portfolio](/)
 
 ---
