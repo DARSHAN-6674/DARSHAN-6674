@@ -38,7 +38,7 @@ Here are some of my beginner projects:
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [Todo App](/) | React, Node.js, MongoDB | A simple full-stack todo list |
+| [E-commerce](https://github.com/DARSHAN-6674/E-commerce-.git) | React| A simple Front end E-commerce site |
 | [User Auth App](/) | MERN | Basic user registration/login system |
 | [Portfolio Website](/) | React | My personal portfolio site |
 
