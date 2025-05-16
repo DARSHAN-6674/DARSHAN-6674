@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Darshan Raval]!
+# 👋 Hi, I'm Darshan Raval
 
 I'm a passionate and motivated **MERN Stack Developer** currently learning and building projects using:
 
