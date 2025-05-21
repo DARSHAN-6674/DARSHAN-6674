@@ -39,8 +39,7 @@ Here are some of my beginner projects:
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [E-commerce](https://e-commerce-mu-ebon.vercel.app/) | React| A simple Front end E-commerce site |
-| [User Auth App](/) | MERN | Basic user registration/login system |
-| [Portfolio Website](/) | React | My personal portfolio site |
+
 
 ---
 
